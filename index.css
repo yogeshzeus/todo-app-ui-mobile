@@ -1,0 +1,866 @@
+
+.z{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 270px;
+    
+    
+}
+.y{
+    font-size: 40px;
+    color: grey;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 370px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.yy{
+    color:tomato;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 850px;
+}
+.x{
+    color: grey;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 900px;
+}
+.w{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 850px;
+
+}
+.b{
+    border: 1000px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+
+}
+.box{
+    height: 300px;
+    width: 200px;
+    border: 1px solid rgba(255, 0, 0, 0.555);
+    margin: 20px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+.box1{
+    
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: larger;
+    box-shadow:  6px 10px 10px #dadada;
+}
+.b1{
+    text-decoration: line-through;
+    color: red;
+}
+.b-1{
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+    position: absolute;
+    top: 300px;
+    left: 240px;
+}
+.box2{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: larger;
+    box-shadow:  6px 10px 10px #dadada;
+
+}
+.b2{
+    text-decoration: line-through;
+    color: red;
+}
+.b-2{
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+    position: absolute;
+    top: 300px;
+    left: 475px;
+
+}
+.box3{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: larger;
+    box-shadow:  10px 10px 10px #dadada;
+}
+.b3{
+    text-decoration: line-through;
+    color: red;
+}
+.b-3{
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+    position: absolute;
+    top: 300px;
+    left: 710px;
+
+}
+.new{
+    display: flex;
+    flex-direction: column;
+}
+.box6{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: larger;
+    box-shadow:  10px 10px 10px #dadada;
+    position: absolute;
+    top: 400px;
+    left: 255px;
+}
+.b6{
+    text-decoration: line-through;
+    color: red;
+}
+.b-6{
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+    position: absolute;
+    top: 135px;
+    left: 13px;
+
+}
+.box7{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: larger;
+    box-shadow:  10px 10px 10px #dadada;
+    position: absolute;
+    top: 400px;
+    left: 538px;
+}
+.b7{
+    text-decoration: line-through;
+    color: red;
+}
+.b-7{
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+    position: absolute;
+    top: 135px;
+    left: 13px;
+
+}
+.box8{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: larger;
+    box-shadow:  10px 10px 10px #dadada;
+    position: absolute;
+    top: 400px;
+    left: 820px;
+}
+.b8{
+    text-decoration: line-through;
+    color: red;
+}
+.b-8{
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+    position: absolute;
+    top: 135px;
+    left: 13px;
+
+}
+
+
+
+.body1{
+    filter: blur(6px);
+}
+.new1{
+    color: tomato;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.b4{
+    height: 250px;
+    width: 350px;
+    border: 2px solid tomato;
+    border-radius: 15px;
+    position: absolute;
+    top: 200px;
+    left: 470px;
+    background-color: white;
+}
+.b-4{
+    color:tomato;
+    font-size: larger;
+    text-align: center;
+    margin-top: 25px;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.b-41{
+    
+    margin-left: 15px;
+    border: tomato;
+}
+.b43{
+    font-size: 25px;
+}
+.button1{
+    background-color: tomato;
+    color: white;
+    border: 1px solid ;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    margin-left: 150px;
+    margin-top: 2px;
+    position: absolute;
+    font-size: larger;
+}
+.paris{
+    position: absolute;
+    color: black;
+    margin-left: 600px;
+    margin-top: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.hr{
+    width: 10%;
+    margin-top: 100px;
+    margin-left: 450px;
+    position: absolute;
+    
+}
+.hr1{
+    width: 10%;
+    margin-top: 100px;
+    margin-left: 800px;
+    position: absolute;
+}
+.back{
+    color: tomato;
+    position: absolute;
+    top: 180px;
+    left: 650px;
+}
+.back1{
+    color: grey;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    top: 180px;
+    left: 700px;
+}
+.parisbox{
+    border: 2px solid tomato;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    top: 280px;
+    left: 560px;
+    box-shadow:  10px 10px 10px #dadada;
+}
+.paris-box{
+    text-align: center;
+    padding-top: 30px;
+
+}
+.parisbox1{
+    color: red;
+    text-decoration: line-through;
+    font-size: larger;
+    font-weight: bold;
+}
+.parisbox2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(56, 53, 53);
+    zoom: 120%;
+}
+
+.plus{
+    color: tomato;
+    position: absolute;
+    top: 530px;
+    left: 800px;
+}
+.page4{
+    filter: blur(6px);
+}
+.b5{
+    height: 250px;
+    width: 350px;
+    border: 2px solid tomato;
+    border-radius: 15px;
+    position: absolute;
+    top: 290px;
+    left: 500px;
+    background-color: white;
+}
+.b-42{
+    
+    margin-left: 15px;
+    border: tomato;
+}
+.b42{
+    font-size: 25px;
+}
+.button2{
+    background-color: tomato;
+    color: white;
+    border: 1px solid ;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    margin-left: 150px;
+    margin-top: 2px;
+    position: absolute;
+    font-size: larger;
+}
+
+@media screen and (max-width:360px) and (min-width:310px) {
+    .z{
+        font-size: 50px;
+        position: absolute;
+        margin-top: 30px;
+        margin-left: 10px;
+        
+        
+    }
+    .y{
+        font-size: 40px;
+        color: grey;
+        position: absolute;
+        margin-top: 38px;
+        margin-left: 130px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .yy{
+        color:tomato;
+        position: absolute;
+        margin-top: 45px;
+        margin-left: 270px;
+    }
+    .b{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+    }
+    .box{
+        height: 50px;
+        width: 250px;
+        border: 1px solid rgba(255, 0, 0, 0.555);
+        margin: 0px;
+        border-radius: 10px;
+        margin-top: 150px;
+        /* overflow: scroll; */
+    }
+    .box1{
+        
+        position: relative;   
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  6px 10px 10px #dadada;
+    }
+    .box2{
+        position: absolute;
+        margin-top: 450px;
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  6px 10px 10px #dadada;
+    }
+    .box3{
+        position: absolute;
+        margin-top: 750px;
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  6px 10px 10px #dadada;
+    }
+    .x{
+        display: none;
+    }
+    .b1{
+        display: none;
+    }
+    .b2{
+        display: none;
+    }
+    .b3{
+        display: none;
+    }
+    .b6{
+        display: none;
+    }
+    .b7{
+        display: none;
+    }
+    .b8{
+        display: none;
+    }
+    .b-1{
+        display: none;
+    }
+    .b-2{
+        display: none;
+    }
+    .b-3{
+        display: none;
+    }
+    .b-6{
+        display: none;
+    }
+    .b-7{
+        display: none;
+    }
+    .b-8{
+        display: none;
+    }
+    .box6{
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  10px 10px 10px #dadada;
+        position: absolute;
+        top: 460px;
+        left: 10px;
+    }
+    .box7{
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  10px 10px 10px #dadada;
+        position: absolute;
+        top: 610px;
+        left: 10px;
+    }
+    .box8{
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  10px 10px 10px #dadada;
+        position: absolute;
+        top: 760px;
+        left: 10px;
+    }
+    .w{
+        margin-top: 40px;
+        margin-left: 240px;
+    }
+    .b4{
+        height: 250px;
+        width: 300px;
+        border: 2px solid tomato;
+        border-radius: 15px;
+        position: absolute;
+        top: 200px;
+        left: 10px;
+        right: 10px;
+        background-color: white;
+    }
+    .b-4{
+        color:tomato;
+        font-size: larger;
+        text-align: center;
+        margin-top: 25px;
+        font-size: large;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .b-41{
+        
+        margin-left: 15px;
+        border: tomato;
+    }
+    .paris{
+        position: absolute;
+        color: black;
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+    .hr{
+        width: 10%;
+        margin-top: 44px;
+        margin-left: 20px;
+        position: absolute;
+        
+    }
+    .hr1{
+        width: 10%;
+        margin-top: 44px;
+        margin-left: 280px;
+        position: absolute;
+    }
+    .back{
+        color: tomato;
+        position: absolute;
+        top: 120px;
+        left: 100px;
+    }
+    .back1{
+        color: grey;
+        position: absolute;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        top: 120px;
+        left: 140px;
+    }
+    .parisbox{
+        border: 2px solid tomato;
+        position: absolute;
+        height: 300px;
+        width: 300px;
+        border-radius: 10px;
+        top: 180px;
+        left: 30px;
+        box-shadow:  10px 10px 10px #dadada;
+    }
+    .paris-box{
+        text-align: center;
+        padding-top: 30px;
+    
+    }
+    .parisbox1{
+        color: red;
+        text-decoration: line-through;
+        font-size: larger;
+        font-weight: bold;
+    }
+    .parisbox2{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(56, 53, 53);
+        zoom: 120%;
+    }
+    
+    .plus{
+        color: tomato;
+        position: absolute;
+        top: 440px;
+        left: 290px;
+    }
+    .b5{
+        height: 250px;
+        width: 250px;
+        border: 2px solid tomato;
+        border-radius: 15px;
+        position: absolute;
+        top: 190px;
+        left: 40px;
+        background-color: white;
+    }
+    .b-42{
+        
+        margin-left: 15px;
+        border: tomato;
+    }
+    .b42{
+        font-size: 17px;
+    }
+    .b43{
+        font-size: 21px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+@media screen and (max-width:768px) and (min-width:380px) {
+    .z{
+        font-size: 50px;
+        position: absolute;
+        margin-top: 30px;
+        margin-left: 270px;
+        
+        
+    }
+    .y{
+        font-size: 40px;
+        color: grey;
+        position: absolute;
+        margin-top: 38px;
+        margin-left: 390px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .yy{
+        color:tomato;
+        position: absolute;
+        margin-top: 45px;
+        margin-left: 500px;
+    }
+    .b{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+    }
+    .box{
+        height: 80px;
+        width: 500px;
+        border: 1px solid rgba(255, 0, 0, 0.555);
+        margin: 0px;
+        border-radius: 10px;
+        margin-top: 150px;
+        margin-left: 100px;
+        /* overflow: scroll; */
+    }
+    .box1{
+        
+        position: relative;   
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  6px 10px 10px #dadada;
+    }
+    .box2{
+        position: absolute;
+        margin-top: 450px;
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  6px 10px 10px #dadada;
+    }
+    .box3{
+        position: absolute;
+        margin-top: 750px;
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  6px 10px 10px #dadada;
+    }
+    .x{
+        display: none;
+    }
+    .b1{
+        display: none;
+    }
+    .b2{
+        display: none;
+    }
+    .b3{
+        display: none;
+    }
+    .b6{
+        display: none;
+    }
+    .b7{
+        display: none;
+    }
+    .b8{
+        display: none;
+    }
+    .b-1{
+        display: none;
+    }
+    .b-2{
+        display: none;
+    }
+    .b-3{
+        display: none;
+    }
+    .b-6{
+        display: none;
+    }
+    .b-7{
+        display: none;
+    }
+    .b-8{
+        display: none;
+    }
+    .box6{
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  10px 10px 10px #dadada;
+        position: absolute;
+        top: 460px;
+        left: 10px;
+    }
+    .box7{
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  10px 10px 10px #dadada;
+        position: absolute;
+        top: 610px;
+        left: 10px;
+    }
+    .box8{
+        padding-left: 40px;
+        padding-top: 30px;
+        font-size: larger;
+        box-shadow:  10px 10px 10px #dadada;
+        position: absolute;
+        top: 760px;
+        left: 10px;
+    }
+    .w{
+        margin-top: 40px;
+        margin-left: 240px;
+    }
+    .b4{
+        height: 450px;
+        width: 400px;
+        border: 2px solid tomato;
+        border-radius: 15px;
+        position: absolute;
+        top: 200px;
+        left: 200px;
+        right: 10px;
+        background-color: white;
+    }
+    .b-4{
+        color:tomato;
+        font-size: larger;
+        text-align: center;
+        margin-top: 25px;
+        font-size: xx-large;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .b-41{
+        
+        margin-left: 15px;
+        border: tomato;
+    }
+    .paris{
+        position: absolute;
+        color: black;
+        margin-left: 290px;
+        margin-top: 150px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+    .hr{
+        width: 10%;
+        margin-top:180px;
+        margin-left: 200px;
+        position: absolute;
+        
+    }
+    .hr1{
+        width: 10%;
+        margin-top: 180px;
+        margin-left: 480px;
+        position: absolute;
+    }
+    .back{
+        color: tomato;
+        position: absolute;
+        top: 280px;
+        left: 290px;
+    }
+    .back1{
+        color: grey;
+        position: absolute;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        top: 280px;
+        left: 340px;
+    }
+    .parisbox{
+        border: 2px solid tomato;
+        position: absolute;
+        height: 400px;
+        width: 400px;
+        border-radius: 10px;
+        top: 380px;
+        left: 200px;
+        box-shadow:  10px 10px 10px #dadada;
+    }
+    .paris-box{
+        text-align: center;
+        padding-top: 30px;
+    
+    }
+    .parisbox1{
+        color: red;
+        text-decoration: line-through;
+        font-size: larger;
+        font-weight: bold;
+    }
+    .parisbox2{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(56, 53, 53);
+        zoom: 120%;
+    }
+    
+    .plus{
+        color: tomato;
+        position: absolute;
+        top: 740px;
+        left: 510px;
+    }
+    .b5{
+        height: 350px;
+        width: 350px;
+        border: 2px solid tomato;
+        border-radius: 15px;
+        position: absolute;
+        top: 290px;
+        left: 240px;
+        background-color: white;
+    }
+    .b-42{
+        
+        margin-left: 15px;
+        border: tomato;
+    }
+    .b42{
+        font-size: 17px;
+        position: absolute;
+        top: 150px;
+        left: 70px;
+    }
+    .b43{
+        font-size: 21px;
+        position: absolute;
+        top: 150px;
+        left: 70px;
+    }
+    .button1{
+        background-color: tomato;
+        color: white;
+        border: 1px solid ;
+        border-radius: 5px;
+        height: 60px;
+        width: 90px;
+        margin-left: 150px;
+        margin-top: 90px;
+        position: absolute;
+        font-size:larger ;
+        
+    }
+    .button2{
+        background-color: tomato;
+        color: white;
+        border: 1px solid ;
+        border-radius: 5px;
+        height: 60px;
+        width: 90px;
+        margin-left: 250px;
+        margin-top: 120px;
+        position: absolute;
+        font-size: larger;
+    }
+    
+    
+
+    
+}
